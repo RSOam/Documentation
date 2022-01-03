@@ -1,4 +1,4 @@
-# Documentation
+# Dokumentacija
 
 Programska rešitev implementira portal za najem polnilnih postaj za električna vozila. <br />
 Rešitev je implementirana v programskem jeziku Go, z izjemo spletnega vmesnika. Ta je implementiran z uporabo JavaScript knjižnice React. <br />
